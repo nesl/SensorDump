@@ -3,3 +3,4 @@ gen/
 .DS_Store
 .classpath
 .project
+project.properties
